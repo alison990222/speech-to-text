@@ -1,6 +1,6 @@
 # Conference summarization
 
-we realize this project based on [TextRank4](https://github.com/letiantian/TextRank4ZH/).
+we realize this project based on [TextRank4zh](https://github.com/letiantian/TextRank4ZH/).
 
 ## Set up
 ```
